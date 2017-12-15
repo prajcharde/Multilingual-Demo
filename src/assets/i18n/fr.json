@@ -1,0 +1,21 @@
+
+{
+    "dashboard": "tableau de bord",
+    "charts": "hit-parade",
+    "tables": "tableaux",
+    "froms": "Froms",
+    "boostrapElement": "bootstrap élément",
+    "boostrapGrid": "bootstrap grille",
+    "component": "composant",
+    "menu": "menu",
+    "submenu": "Sous-menu",
+    "blankpage": "blanc page",
+    "moretheme": "plus thèmes",
+    "downloadNow": "télécharger",
+    "language": "langue",
+     "HOME": "Accueil",
+    "ABOUT": "À propos",
+    "CONTACT": "Contacter",
+    "login":"s'identifier",
+    "logout":"Connectez - Out"
+}

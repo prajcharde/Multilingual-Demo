@@ -1,0 +1,20 @@
+{
+    "dashboard": "Principal",
+    "charts": "Caracteres",
+    "tables": "Tablas",
+    "forms": "Formularios",
+    "boostrapElement": "Elementos Boostrap",
+    "boostrapGrid": "Rejilla Boostrap",
+    "component": "Componentes",
+    "menu": "Menú",
+    "submenu": "Submenú",
+    "blankpage": "Página en Blanco",
+    "moretheme": "Más temas",
+    "downloadNow": "Descarga Ahora",
+    "language": "Lenguaje",
+    "HOME": "Home",
+    "ABOUT": "Acerca de",
+    "CONTACT": "Contacto",
+    "logout":"Cerrar sesión",
+    "login":"iniciar sesión"
+}

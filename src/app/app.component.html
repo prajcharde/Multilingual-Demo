@@ -1,0 +1,21 @@
+<div class="container">
+<h1>MultiLingual Demo App</h1>
+<div class="dropdown">
+    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" > {{ 'language' | translate }}</button>
+    <ul class="dropdown-menu">
+      <li> <a class="dropdown-item"  (click)="changeLang('en')">English</a></li>
+      <li> <a class="dropdown-item"  (click)="changeLang('fr')">French</a></li>
+      <li> <a class="dropdown-item"  (click)="changeLang('es')">Spanish</a></li>
+    </ul>
+  </div>
+
+<br>
+            <div>{{ 'login' | translate }}---{{ 'logout' | translate }}</div>
+            <div>{{ 'menu'   | translate}}</div>
+            <div>{{ 'HOME' | translate }}-----{{ 'ABOUT' | translate }}-----{{ 'CONTACT' | translate }}</div>
+            <div>{{ 'dashboard' | translate }}</div>
+            <div>{{ 'charts' | translate }}</div>
+            <div>{{ 'tables' | translate }}</div>
+            <div>{{ 'forms'  | translate }}</div>
+            <div>----{{'blankpage'| translate}}----</div>    
+</div>
